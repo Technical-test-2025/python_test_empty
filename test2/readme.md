@@ -16,7 +16,7 @@ Include the following methods:
 - `display_info()` – returns a string with the vehicle's details.
 - `drive(km)` – increases the mileage by the given number of kilometers.
 
-### 2. Create the following subclasse:
+### 2. Create the following subclass:
 - `Car` – with an additional attribute `number_of_doors` (integer)
 
 subclass should override the `display_info()` method to include its specific attributes.
