@@ -12,6 +12,7 @@ Design a system to manage a fleet of vehicles for a rental company. The system s
 - `year` (integer)
 - `mileage` (float)
 
+
 Include the following methods:
 - `display_info()` – returns a string with the vehicle's details.
 - `drive(km)` – increases the mileage by the given number of kilometers.
